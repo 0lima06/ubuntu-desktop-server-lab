@@ -17,7 +17,7 @@ This project is a demonstration that was built with support from a series of You
 
 A detailed step-by-step setup process is available here:
 
-[Nextcloud file server setup process](https://docs.google.com/document/d/1-IU0E_ZIA8dqRCRQPLF7pHrkDwbxr9JsRNmPjgLjxX8/edit?usp=sharing)
+[Ubuntu Nextcloud File Server Setup Process](https://docs.google.com/document/d/1-IU0E_ZIA8dqRCRQPLF7pHrkDwbxr9JsRNmPjgLjxX8/edit?usp=sharing)
 
 This document includes:
 * LAMP stack installation steps
