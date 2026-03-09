@@ -1,8 +1,8 @@
-# Ubuntu Desktop Server With Self-Hosted Nextcloud File Server EXAMPLE Project
+# Ubuntu Desktop Server VM With Self-Hosted Nextcloud File Server Project
 
-## A functional EXAMPLE project written in Ubuntu showing how to create a Nextcloud file server
+## A fully functional EXAMPLE project written in Ubuntu showing how to create a Nextcloud file server
 
-This project is a demonstration that was built along with a series of YouTube videos showing how to create a Nextcloud file system on Ubuntu. Every part of this project shows how to do the following:
+This project is a demonstration that was built with support from a series of YouTube videos showing how to create a Nextcloud file system on Ubuntu. Every part of this project shows how to do the following:
 
 * Install and configure a LAMP (Linux, Apache, MySQL/MariaDB, PHP) stack
 * Create a database for Nextcloud
@@ -38,4 +38,4 @@ If you found an issue or would like to submit an improvement to this project, pl
 
 ## Known issues
 
-This setup is complete. There are no ongoing issues with the setup process to the knowledge of the creator of this README.
+This setup is complete. There are no ongoing issues with the setup process to the knowledge of 0lima06 (me lol).
