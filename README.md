@@ -25,6 +25,8 @@ This document includes:
 * Apache virtual host setup
 * Nextcloud installation steps
 * All terminal commands used during setup
+* Screenshots of working applications
+* Troubleshooting steps
 
 ## How to tweak this project for your own uses
 
