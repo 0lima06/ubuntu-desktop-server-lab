@@ -12,7 +12,7 @@ This project is a demonstration that was built along with a series of YouTube vi
 ## Watch the series of videos!
 * <a href="https://youtu.be/354IQo8muMg?si=y07sQAknmPpl9gRb">
   How to Install LAMP stack
-</a><br> 
+</a>  
 * <a href="https://youtu.be/3mjvUzzgufU?si=7irEqJ30niIJf5fz">
   How to Install Nextcloud on Ubuntu
 </a>
