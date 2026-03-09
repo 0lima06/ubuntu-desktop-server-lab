@@ -17,7 +17,7 @@ This project is a demonstration that was built along with a series of YouTube vi
 
 A detailed step-by-step guide of the setup process is available here:
 
-[Nextcloud File System Setup](https://docs.google.com/document/d/1-IU0E_ZIA8dqRCRQPLF7pHrkDwbxr9JsRNmPjgLjxX8/edit?usp=sharing)
+[Nextcloud file system setup](https://docs.google.com/document/d/1-IU0E_ZIA8dqRCRQPLF7pHrkDwbxr9JsRNmPjgLjxX8/edit?usp=sharing)
 
 This document includes:
 * LAMP stack installation steps
